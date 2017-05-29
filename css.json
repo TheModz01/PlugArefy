@@ -1,0 +1,45 @@
+{
+    "room": "Arefy",
+    "author": "TheModz01",
+    "icon": null,
+    "css": null,
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": "#C74B4B",
+        "ambassador": "#D4FB24",
+        "host": "#E10B0B",
+        "cohost": "#DAE10B",
+        "manager": "#00F9FD",
+        "bouncer": "#22ADD0",
+        "rdj": "#A007A2",
+        "subscriber": "#EEC71B",
+        "silversubscriber": "#00FF1A",
+        "friend": "#FF6200",
+        "user": "#0055FF"
+    },
+    "images": {
+        "background": "http://i.imgur.com/OpDhVxI.jpg",
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
